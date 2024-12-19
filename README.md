@@ -1,15 +1,12 @@
 # MLRadiogenomics
-Genetik ve görüntü verilerinin makine öğrenmesi yöntemleri ile analiz edilmesi
+This repository allows researchers to analyze their medical image and genetic datasets with machine learning methods
 
-# Tezin Adı: Klinik Karar Vermede Radyogenomik Tabanlı Bir Yaklaşım
+# Title of Thesis: A RadioGenomics-Based Approach to Clinical Decision Making 
 
-## Tezin Konusu
-Radyogenomik, klinik karar vermede radyolojik ve genetik özellikleri birlikte kullanmaya, farklı veri kaynakları arasında ilişkiler kurmaya odaklanan yeni bir araştırma alanıdır. Tıbbi görüntülerden elde edilen radyolojik özellikler ile genetik veriden elde edilen özellikler birleştirildikten sonra makine öğrenmesi yöntemleri kullanılarak daha doğru ve kesin kararlara ulaşılabilir. Bu çalışmada açık erişimli bir veri tabanından hastalara ilişkin genetik veri ve DICOM formatında görüntü veri setleri elde edilecektir. Özelliklerin elde edilmesi, ön-işleme, filtreleme gibi adımlardan sonra hastalık tiplerinin sınıflandırılmasına ilişkin sınıflama modelleri oluşturulacaktır. 
+## Topic of the Thesis
+Radiogenomics is an emerging field that aims to improve clinical decision support by combining image and genetic data. It is often challenging to collect both image and genetic data from the same patients. This GitHub repo provides the codes for a simulation study aims to evaluate the performance of radiomics and genomics features on classification the histology type (adenocarcinoma or squamous cell carcinoma) of non-small cell lung cancer dataset. 
 
-## Amaç
-Bu tez çalışmasında genetik ve görüntü verisinin birlikte kullanılması ile, tek başlarına kullanılmalarına göre klinik karar verme performansının yükseldiğini göstermek ve aynı zamanda radyogenomik çalışmalar için iş akış diyagramı/kılavuz oluşturmak amaçlanmaktadır.
-
-Bu projede örnek Jupyter notebooklar ve çalışma notları paylaşılacaktır.
+In this project, example Jupyter notebooks and study notes are shared.
 
 Merve Kaşıkcı 
 mervekasikci@hacettepe.edu.tr
