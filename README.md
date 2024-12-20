@@ -1,4 +1,4 @@
-# MLRadiogenomics
+# MLRadioGenomics
 This repository allows researchers to analyze their medical image and genetic datasets with machine learning methods
 
 # Title of Thesis: A RadioGenomics-Based Approach to Clinical Decision Making 
